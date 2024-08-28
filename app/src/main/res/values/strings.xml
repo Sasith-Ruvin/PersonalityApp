@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Personality</string>
+    <string name="personality_intj">INTJ - The Architect</string>
+    <string name="desc_intj">Strategic and logical, always planning ahead.</string>
+
+    <string name="personality_intp">INTP - The Thinker</string>
+    <string name="desc_intp">Innovative and curious, constantly seeking understanding.</string>
+
+    <string name="personality_entj">ENTJ - The Commander</string>
+    <string name="desc_entj">Bold and strong-willed, natural-born leaders.</string>
+
+    <string name="personality_entp">ENTP - The Debater</string>
+    <string name="desc_entp">Quick-witted and clever, loves challenging others ideas.</string>
+
+    <string name="personality_infj">INFJ - The Advocate</string>
+    <string name="desc_infj">Insightful and altruistic, driven by deep connections.</string>
+
+    <string name="personality_infp">INFP - The Mediator</string>
+    <string name="desc_infp">Idealistic and empathetic, guided by strong principles.</string>
+
+    <string name="personality_enfj">ENFJ - The Protagonist</string>
+    <string name="desc_enfj">Charismatic and inspiring, thrives on helping others.</string>
+
+    <string name="personality_enfp">ENFP - The Campaigner</string>
+    <string name="desc_enfp">Enthusiastic and creative, loves exploring new ideas.</string>
+
+    <string name="personality_istj">ISTJ - The Logistician</string>
+    <string name="desc_istj">Practical and reliable, values tradition and order.</string>
+
+    <string name="personality_isfj">ISFJ - The Defender</string>
+    <string name="desc_isfj">Dedicated and warm-hearted, enjoys serving others.</string>
+
+    <string name="personality_estj">ESTJ - The Executive</string>
+    <string name="desc_estj">Organized and responsible, takes charge in any situation.</string>
+
+    <string name="personality_esfj">ESFJ - The Consul</string>
+    <string name="desc_esfj">Caring and sociable, focuses on maintaining harmony.</string>
+
+    <string name="personality_istp">ISTP - The Virtuoso</string>
+    <string name="desc_istp">Practical and observant, loves working with hands.</string>
+
+    <string name="personality_isfp">ISFP - The Adventurer</string>
+    <string name="desc_isfp">Creative and sensitive, enjoys living in the moment.</string>
+
+    <string name="personality_estp">ESTP - The Entrepreneur</string>
+    <string name="desc_estp">Energetic and perceptive, thrives in dynamic environments.</string>
+
+    <string name="personality_esfp">ESFP - The Entertainer</string>
+    <string name="desc_esfp">Fun-loving and spontaneous, loves bringing joy to others.</string>
+</resources>
